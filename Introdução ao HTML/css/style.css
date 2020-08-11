@@ -1,0 +1,50 @@
+body{
+    background: rgb(89, 137, 191);
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: justify;
+}
+
+header{
+    margin-top: 80px;
+}
+
+h1{
+    color: salmon;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    color: rgb(223, 165, 159);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+p{
+    font-size: 18pt;
+}
+
+img{
+    margin-left: 50px;
+}
+
+footer{
+    margin-bottom: 50px;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 50px;
+}
+
+.imagemPadrao{
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.imagemParceiros {
+    width: 150px;
+}
